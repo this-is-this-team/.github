@@ -4,7 +4,7 @@ We are a team of frontend developers and our goal is to complete the final task 
 
 #### Links to the Terms of Reference for the final task:
 
-[Sprint 1 - Sprint 1: Repository Setup, Project Management, CommerceTools Integration, and Development Environment Configuration](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/eCommerce-Application/Sprints/Sprint%231.md)
+[Sprint 1: Repository Setup, Project Management, CommerceTools Integration, and Development Environment Configuration](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/eCommerce-Application/Sprints/Sprint%231.md)
 
 [Sprint 2: Login, Registration, and Main Pages Implementation](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/eCommerce-Application/Sprints/Sprint%232.md)
 
