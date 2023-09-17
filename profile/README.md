@@ -12,7 +12,7 @@ We are a team of frontend developers and our goal is to complete the final task 
 
 [Sprint 4: Basket Page, Catalog Page Enhancements, and About Us Page Implementation](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/eCommerce-Application/Sprints/Sprint%234.md)
 
-[Final-project presentation](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/presentation/final-project-presentation.md)
+[Final-project presentation](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/eCommerce-Application/presentation.md)
 
 
 #### Final-project repository *(private until the course ends)*
