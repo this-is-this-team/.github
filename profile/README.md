@@ -15,8 +15,11 @@ We are a team of frontend developers and our goal is to complete the final task 
 [Final-project presentation](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/eCommerce-Application/presentation.md)
 
 
-#### Final-project repository *(private until the course ends)*
+#### Final-project repository
 [eCommerce-Application](https://github.com/this-is-this-team/eCommerce-Application/)
 
-#### GitHub project *(private until the course ends)*
+#### GitHub project
 [JSFE2023Q1-final-task](https://github.com/orgs/this-is-this-team/projects/3/views/5)
+
+#### Demo
+[https://this-is-this.onrender.com](https://this-is-this.onrender.com/)
