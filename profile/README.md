@@ -23,3 +23,6 @@ We are a team of frontend developers and our goal is to complete the final task 
 
 #### Demo
 [https://this-is-this.onrender.com](https://this-is-this.onrender.com/)
+
+#### Preseantation
+[presentation on dropbox](https://www.dropbox.com/scl/fi/nhi0e4twjcugihe8r0l2k/presentation.pdf?rlkey=4ifitekqkodveius8kel27f9v&dl=0)
